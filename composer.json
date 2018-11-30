@@ -1,3 +1,13 @@
 {
-  "name": ""
+    "name": "abutkys/chain_gang",
+    "description": "OOP project",
+    "type": "project",
+    "license": "GPL 3.0",
+    "authors": [
+        {
+            "name": "andrius butkys",
+            "email": "abutkys4@gmail.com"
+        }
+    ],
+    "require": {}
 }
