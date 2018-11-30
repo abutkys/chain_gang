@@ -37,8 +37,8 @@
       <file leaf-file-name="db_credentials.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/private/db_credentials.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+            <state relative-caret-position="216">
+              <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -103,8 +103,8 @@
         <option value="$PROJECT_DIR$/public/bicycles.php" />
         <option value="$PROJECT_DIR$/public/stylesheets/staff.css" />
         <option value="$PROJECT_DIR$/public/stylesheets/public.css" />
-        <option value="$PROJECT_DIR$/private/db_credentials.php" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/private/db_credentials.php" />
       </list>
     </option>
   </component>
@@ -146,7 +146,7 @@
             <path>
               <item name="chain_gang" type="b2602c69:ProjectViewProjectNode" />
               <item name="chain_gang" type="462c0819:PsiDirectoryNode" />
-              <item name="private" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="chain_gang" type="b2602c69:ProjectViewProjectNode" />
@@ -185,11 +185,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/public/staff" />
       <recent name="$PROJECT_DIR$/private" />
       <recent name="$PROJECT_DIR$/private/shared" />
-      <recent name="$PROJECT_DIR$/public/stylesheets" />
-      <recent name="$PROJECT_DIR$/public" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -225,16 +225,15 @@
       <workItem from="1542016978999" duration="29892000" />
       <workItem from="1542540393984" duration="14533000" />
       <workItem from="1542629264276" duration="7927000" />
-      <workItem from="1542961845774" duration="13066000" />
+      <workItem from="1542961845774" duration="13316000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131555000" />
+    <option name="totallyTimeSpent" value="131805000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="PHP-CGI Server" order="12" />
@@ -309,7 +308,7 @@
     <entry file="file://$PROJECT_DIR$/private/shared/public_header.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/bicycles.php">
+    <entry file="file://$PROJECT_DIR$/bicycles.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="744">
           <caret line="31" selection-start-line="31" selection-end-line="31" />
@@ -603,7 +602,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/bicycles.php">
+    <entry file="file://$PROJECT_DIR$/bicycles.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="61" column="22" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
@@ -626,8 +625,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/private/db_credentials.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        <state relative-caret-position="216">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
         </state>
       </provider>
     </entry>

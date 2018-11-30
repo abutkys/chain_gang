@@ -16,7 +16,7 @@
 
 <div id="main">
 
-  <a href="../bicycles.php">Back to Inventory</a>
+  <a href="bicycles.php">Back to Inventory</a>
 
   <div id="page">
 
