@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7688aaf2-a024-40aa-afbf-75f324cc144d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -240,15 +241,16 @@
       <workItem from="1542016978999" duration="29892000" />
       <workItem from="1542540393984" duration="14533000" />
       <workItem from="1542629264276" duration="7927000" />
-      <workItem from="1542961845774" duration="12137000" />
+      <workItem from="1542961845774" duration="12356000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130626000" />
+    <option name="totallyTimeSpent" value="130845000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="PHP-CGI Server" order="12" />
@@ -256,7 +258,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32965517" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32965517" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1736672" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
