@@ -16,7 +16,7 @@ $bikes = Bicycle::find_by_sql($sql);
 
 ?>
 <?php $page_title = 'Inventory'; ?>
-<?php include(SHARED_PATH . '/public_header.php'); ?>
+<?php include(SHARED_PATH.'/public_header.php'); ?>
 
 <div id="main">
 
@@ -53,7 +53,7 @@ $bikes = Bicycle::find_by_sql($sql);
         <td><?php echo h($bike->gender); ?></td>
         <td><?php echo h($bike->color); ?></td>
         <td><?php echo h(money_format('$%i', $bike->price)); ?></td>
-	      <td><a href = "detail.php?id=<?php echo $bike->id ?>">View</a></td>
+	      <td><a href = "public/detail.php?id=<?php echo $bike->id ?>">View</a></td>
       </tr>
       <?php endforeach; ?>
 
@@ -66,4 +66,4 @@ $bikes = Bicycle::find_by_sql($sql);
 
 </div>
 
-<?php include(SHARED_PATH . '/public_footer.php'); ?>
+<?php include(SHARED_PATH.'/public_footer.php'); ?>
